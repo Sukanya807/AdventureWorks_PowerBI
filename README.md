@@ -7,7 +7,7 @@ The purpose of this project is to design and deliver an end-to-end business inte
 
 ## Source
 
-- Microsoft Power BI Desktop for Business Intelligence - UDEMY (MAVEN Analytics
+- Microsoft Power BI Desktop for Business Intelligence - UDEMY 
 
 ## Brief 
 
