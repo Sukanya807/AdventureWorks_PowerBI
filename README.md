@@ -64,6 +64,10 @@ An interactive dashboard has been created that can be used by the end-user to di
 - The **Weekly Profit chart** explores the profit trend in general and also includes the weekly profit forecast in the coming weeks.
 - The **Weekly Profit Vs.Adjusted Profit** line chart explores the impact that pricing adjustments would have on the company's profits.
 - The **Weekly Returns** chart shows the weekly Return trends for individual products.
+
+### Page 3 : Customer Details:
+
+![](images/customer_detail.png)
 - 
 
 
