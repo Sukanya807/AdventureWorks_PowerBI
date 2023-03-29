@@ -68,6 +68,18 @@ An interactive dashboard has been created that can be used by the end-user to di
 ### Page 3 : Customer Details:
 
 ![](images/customer_detail.png)
-- 
+
+- The Customer Detail page allows the users to gain insights about the company's existing and target customers.
+- The Matrix shows the **top 100 customers for the current month** in terms of Total Orders and Total Revenue.
+- The donut charts on top breaks down the Total Orders Received by **Customer Gender, Income Level and Occupation**.
+- The treemap shows which **customer age group** places the highest number of orders.
+- The **Orders & Revenue by Month** chart shows the total orders placed and the revenue earned from individual customers per month.
+- The cards below shows the **Top Customer for the current month, the number of orders placed by them and revenue earned from the top customer**.
+- The following image shows the changes in the interactive Customer Detail page when the Orders by Gender chart is filtered to select "Female".
+
+![](images/gender_filter_example.png)
+ 
+
+
 
 
