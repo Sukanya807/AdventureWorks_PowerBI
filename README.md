@@ -55,4 +55,15 @@ An interactive dashboard has been created that can be used by the end-user to di
 
 ![](images/drillthrough_example.png)
 
+### Page 2 : Product Details 
+
+![](images/product_detail.png)
+
+- The Product Details page allows the users to drill down to individual product performance.
+- The guage charts on top allows users to track **Current Month's Order Volume, Total Revenue and Returns** against the monthly targets for individual products.
+- The **Weekly Profit chart** explores the profit trend in general and also includes the weekly profit forecast in the coming weeks.
+- The **Weekly Profit Vs.Adjusted Profit** line chart explores the impact that pricing adjustments would have on the company's profits.
+- The **Weekly Returns** chart shows the weekly Return trends for individual products.
+- 
+
 
