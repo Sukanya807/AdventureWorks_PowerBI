@@ -1,7 +1,7 @@
 
 ## Purpose 
 
-The purpose of this project is to design and deliver an end-to-end business intelligence solution for Adventure Works Cycles, a global manufacturing company.
+The purpose of this project is to design and deliver an end-to-end business intelligence solution for Adventure Works Cycles, a global manufacturing company. The following image shows the Executive Summary page of the interactive dashboard.
 
 ![](images/exec_summary.png)
 
