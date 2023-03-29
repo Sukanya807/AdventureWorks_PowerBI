@@ -54,4 +54,6 @@ An interactive dashboard has been created that can be used by the end-user to di
 - The page also allows the users to filter the results based on geographic locations relevant to them.
 - Finally, by clicking on the product names, users can drill down further to explore more details about individual products in the Product Details Page.
 
+![](images/drillthrough_example.png)
+
 
