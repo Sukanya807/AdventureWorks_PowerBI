@@ -52,7 +52,7 @@ An interactive dashboard has been created that can be used by the end-user to di
 - It explores important KPIs such as Current Month Revenue, Current Month Orders and Current Month Returns compared to previous month's figures.
 - The page also shows the Top Product in terms of order quantity and Top Product in terms of Profit.
 - The page also allows the users to filter the results based on geographic locations relevant to them.
-- Finally, by clicking on the product names, users can drill down further to explore more details about individual products in the Product Details Page.
+- Finally, by clicking on the product names, users can drill down further to explore more details about individual products in the Product Details Page. For example, the following image shows product level details for the selected product name 'Sport - 100 Helmet, Red'
 
 ![](images/drillthrough_example.png)
 
