@@ -1,9 +1,13 @@
 
 ## Purpose 
 
-The purpose of this project is to design and deliver an end-to-end business intelligence solution for Adventure Works Cycles, a global manufacturing company. The following image shows the Executive Summary page of the interactive dashboard.
+The purpose of this project is to design and deliver an end-to-end business intelligence solution for Adventure Works Cycles, a global manufacturing company. The following image shows the Executive Summary page of the interactive dashboard. Since the project could not be published on Power BI Service, the repository contains the screenshots of the interactive dashboard.
 
 ![](images/exec_summary.png)
+
+## Source
+
+- Microsoft Power BI Desktop for Business Intelligence - UDEMY (MAVEN Analytics
 
 ## Brief 
 
