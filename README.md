@@ -36,4 +36,12 @@ The following csv files have been used for the purpose of this project
 
 ![](images/relationship_view.png)
 
+## Data Visualization
+
+An interactive dashboard has been created that can be used by the end-user to discover the key trends and patterns
+
+### Page 1 : Executive Summary
+
+![](images/exec_summary.png)
+
 
