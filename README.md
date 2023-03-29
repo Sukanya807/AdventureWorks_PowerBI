@@ -35,3 +35,5 @@ The following csv files have been used for the purpose of this project
 ## Table Relationships & Data Model
 
 ![](images/relationship_view.png)
+
+
